@@ -1,0 +1,178 @@
+
+.reveal .slides .title { 
+  font-size: 180%; 
+}
+
+.reveal .slides .place { 
+     text-transform : none;
+     font-size: 100%; 
+     margin-top:-20px;
+}
+
+.reveal .slides .author { 
+  font-size: 70%; 
+}
+
+
+.reveal .slides .mail { 
+  font-size: 65%; 
+      color: blue; 
+}
+
+
+.reveal .slides h2 { 
+  font-size: 130%; 
+}
+
+.reveal .slides h3 {
+   font-size: 100%;
+   text-transform : none;
+   }
+
+p,ul,li,td {
+    color: white; 
+   font-size: 70%;
+ }
+ 
+
+.reveal .slides .pucsmall {
+	font-size: 0.8em;
+}
+
+.reveal .slides .xpucsmall {
+	font-size: 0.6em;
+}
+
+
+.reveal .slides .xxpucsmall {
+	font-size: 0.5em;
+}
+
+
+.reveal .slides .smallp {
+  text-align: left;
+	font-size: 0.7em;
+}
+
+
+
+.reveal .slides .legend {
+  margin-top: -30px;
+  text-align: center;
+	font-size: 0.5em;
+}
+
+
+.reveal .slides .smallpcenter {
+  text-align: center;
+	font-size: 0.7em;
+}
+
+.reveal .slides .smallpcenter2 {
+  text-align: center;
+	font-size: 0.6em;
+}
+
+.reveal .slides .smallpcenter3 {
+  text-align: center;
+	font-size: 0.5em;
+	margin-top: 75px;
+}
+
+
+.reveal .slides .xsmallp {
+	font-size: 0.5em;
+}
+
+.reveal .slides .smallbluep {
+  text-align: left;
+	font-size: 0.7em;
+	color: #6f9cd1; 
+}
+
+
+.reveal .slides .moyp {
+		font-size: 0.8em;
+}
+
+.reveal .slides .moyp3 {
+      padding: 30px 0 0 0;
+		font-size: 0.9em;
+}
+
+
+.reveal .slides .moyp2 {
+    padding: 15px 0 0 0;
+		font-size: 0.8em;
+}
+
+
+.reveal .slides .nrmp {
+		font-size: 0.9em;
+}
+
+
+
+
+#left {
+  left:-8.33%;
+  text-align: center;
+  padding: 20px 0;
+  float: left;
+  width:47%;
+}
+
+#right {
+  left:31.25%;
+  float: right;
+  padding: 20px 0;
+  text-align: center;
+  width:47%;
+}
+
+#left3 {
+  text-align: center;
+  padding: 20px 0;
+  float: left;
+  width:25%;
+}
+
+
+#center2 {
+  float: left;
+  padding: 75px 0;
+  text-align: center;
+  width:20%;
+}
+
+#center3 {
+  float: left;
+  padding: 40px 0;
+  text-align: center;
+  width:25%;
+}
+
+#right3 {
+  float: left;
+  padding: 50px 0;
+  text-align: center;
+  width:30%;
+}
+
+
+.reveal .slides .R {
+  padding: 20px 20px;
+}
+
+
+.reveal section img { 
+    background: rgba(0, 0, 0, 0); 
+    border: 0px solid black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15) 
+}
+
+.reveal .slides .litito { 
+  font-size: 75%; 
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
