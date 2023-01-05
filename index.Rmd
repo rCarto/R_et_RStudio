@@ -89,22 +89,6 @@ CC BY-SA 4.0
 <p class="xsmallp" align="center">*https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html*</p>
 
 
-## Soutiens importants
-
-
-<br>
-
-<p class="normp">Résultat de **30 années de recherche & développement**</p>
-
-<br>
-
-Des acteurs économiques importants **financent** le développement de **R** : ***Microsoft***, ***Google***, ***Oracle***, ***Esri***... 
-
-<br>
-
-<p class="moyp">https://www.r-consortium.org/members.</p>
-
-
 ## Libre et multi-plateforme
 
 <aside class="notes">
@@ -386,7 +370,7 @@ ggsave(p, filename = "figure/graph.png", bg = "transparent", dpi = 300)
 
 <br>
 
-> - **Son apprentissage est long et parfois douloureux**
+> - **Son apprentissage peut être est long**
 
 
 
@@ -417,7 +401,7 @@ ggsave(p, filename = "figure/graph.png", bg = "transparent", dpi = 300)
 <p class="smallpcenter">RStudio (aujourd'hui [Posit](https://www.rstudio.com/blog/rstudio-is-becoming-posit/)) est une entreprise qui développe et publie des logiciels et des services basés sur R.
 **C'est l'acteur le plus important de la communauté**.</p>  
 
-<p class="smallpcenter">**Rstudio a développé plusieurs packages de référence**. *Ex :*</p>
+<p class="smallpcenter">**Posit a développé plusieurs packages de référence**. *Ex :*</p>
 
 <ul class="xpucsmall">
 > - [**dplyr**](https://dplyr.tidyverse.org/) & [**tidyr**](https://tidyr.tidyverse.org/) (*manipulation de tableau*)
@@ -434,7 +418,7 @@ ggsave(p, filename = "figure/graph.png", bg = "transparent", dpi = 300)
 </ul>
 
       
-<p class="smallpcenter">**Rstudio** propose également **un Environnement de Développement Intégré** ([**IDE**](https://rstudio.com/products/rstudio/)), qui **facilite énormément l'utilisation de R**.</p>
+<p class="smallpcenter">**Posit** propose également **un Environnement de Développement Intégré** nommé [**RStudio**](https://rstudio.com/products/rstudio/), qui **facilite énormément l'utilisation de R**.</p>
 
 
 ## Interface rudimentaire de R
