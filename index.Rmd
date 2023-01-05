@@ -442,7 +442,7 @@ ggsave(p, filename = "figure/graph.png", bg = "transparent", dpi = 300)
 
 <br>
 
-<p class="smallpcenter" >**L'IDE Rstudio facilite l'apprentissage de R et son utilisation**</p>
+<p class="smallpcenter" >**L'IDE RStudio facilite l'apprentissage de R et son utilisation**</p>
 
 </div>
 
