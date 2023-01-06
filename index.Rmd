@@ -370,7 +370,7 @@ ggsave(p, filename = "figure/graph.png", bg = "transparent", dpi = 300)
 
 <br>
 
-> - **Son apprentissage peut être est long**
+> - **Son apprentissage peut être long**
 
 
 
